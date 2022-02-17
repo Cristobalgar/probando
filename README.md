@@ -1,0 +1,2 @@
+# probando
+Como funciona git
