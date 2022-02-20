@@ -1,4 +1,8 @@
-
+---
+Titule: El archivo nuevo
+Subtitul: los ddemas
+Author: Yo 
+---
 
 
 # Titulo 1
