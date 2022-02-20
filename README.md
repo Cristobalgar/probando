@@ -4,14 +4,14 @@ Como funciona git
  
  Una lista 
  
- -una cosa
- -otra cosa
- -mas cosas
-   -mas y mas cosas 
-   -otra lis
+ - una cosa
+ - otra cosa
+ - mas cosas
+   - mas y mas cosas 
+   - otra lis
    
-1.lista uno 
-2.dos cosa 
+1. lista uno 
+2. dos cosa 
 3. mas cosas
    Yo puedo escribir en *italicas* o **negritas** y junto con ecuaciones 
    
