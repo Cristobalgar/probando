@@ -18,6 +18,8 @@ Como funciona git
    
  $$\int_{x=0}^{\infty}x^2dx$$
    
+   Vamos a ver [otro.archivo](otro.html) o [asi](otro.md)
+   
  
 
 ![logo](https://e00-us-marca.uecdn.es/claro/assets/multimedia/imagenes/2022/02/20/16453285188617.jpg)
