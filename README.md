@@ -3,11 +3,16 @@ Como funciona git
  no pude desde la terminal 
  
  Una lista 
+ 
  -una cosa
  -otra cosa
  -mas cosas
    -mas y mas cosas 
    -otra lis
+   
+1.lista uno 
+2.dos cosa 
+3. mas cosas
    Yo puedo escribir en *italicas* o **negritas** y junto con ecuaciones 
    
  $$\int_{x=0}^{\infty}x^2dx$$
