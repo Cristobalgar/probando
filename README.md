@@ -13,6 +13,7 @@ Como funciona git
 1. lista uno 
 2. dos cosa 
 3. mas cosas
+    1. mas
    Yo puedo escribir en *italicas* o **negritas** y junto con ecuaciones 
    
  $$\int_{x=0}^{\infty}x^2dx$$
